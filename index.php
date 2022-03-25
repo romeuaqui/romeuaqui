@@ -1,5 +1,7 @@
 <?php 
 
-echo "Olá, Mundo!";
+$nome = "Hcode";
+
+echo $nome;
 
 ?>
